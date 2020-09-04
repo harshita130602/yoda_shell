@@ -61,4 +61,4 @@ The commands that are supported are as follows :
 * **shell_ls()** - Executes the ls command along with all the flags.
 * **shell_exit()** OR **shell_quit()** - Functions to exit the shell. 
 ## LICENSE 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/harshita130602/yoda_shell/blob/master/LICENSE.md/LICENSE.md) file for details.
