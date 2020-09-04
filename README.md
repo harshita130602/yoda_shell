@@ -60,3 +60,5 @@ The commands that are supported are as follows :
 * **shell_echo()** - Function to execute echo command
 * **shell_ls()** - Executes the ls command along with all the flags.
 * **shell_exit()** OR **shell_quit()** - Functions to exit the shell. 
+## LICENSE 
+This project is licensed under the MIT License - see the LICENSE.md file for details.
