@@ -4,7 +4,7 @@
 This shell is a complete working linux shell. It supports most of the linux shell functionalities including semicolon separated commands, all basic linux commands etc. Foreground and Background processes can also be executed. 
 ## RUN THE CODE
 1. Clone this directory and cd into it.
-2. Run the command make.
+2. Run the command "make".
 3. Run ./shell to get a prompt of the form username@system_name:path.
 4. Run any command in the shell. It can entail as many number of tabs and spaces, the shell accounts for those.
 5. In order to exit, you can run either exit or quit.
