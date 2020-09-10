@@ -35,6 +35,8 @@ The commands that are supported are as follows :
         ls -a
         ls -al
         ls -la
+        ls -l -a
+        ls -a -l
         ls [directory]
     ```
     It throws an error on being executed on something other than a directory.
